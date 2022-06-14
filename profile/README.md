@@ -33,28 +33,9 @@ The Fusion Application is an e-commerce shopping application that is used by Gue
 
 ## Getting Started
 
-Create 3 seperate local repositories using the following commands:
-* git clone https://github.com/Revature-Fusion/Fusion-frontend.git
-* git clone https://github.com/Revature-Fusion/Fusion-java.git
-* git clone https://github.com/Revature-Fusion/Fusion-python.git
+Open the following link for the Startup Documentation and follow the steps there to set up the Fusion Application locally.
 
-## Usage
-
-There are 3 different repositories. One that holds the Frontend, one that holds the Java backend, and another that holds the Python backend.
-
-1) Start the Postgres server and run the sql script. Enter your database details and put it in resources folder as connection.properties
-
-2) Next within the Java Backend Local Repository, open the Fusion folder with IntelliJ and check the resource folder in /java/main to see if there is a connection.properties file. If there is not one, make one and input your database details within.
-
-Then open up JDBC Connection under /java/main/util and run to test connection to the database, once connected to the database, run the App class within /java/main/app
-
-3) Then within the Python Backend Local Repository, open the project in Pycharm and navigate to the dbconnection.py to set up your database connection within the /util folder.
-
-Afterwards, open the app.py and run the file
-
-4) Once both app files from Java and Python are running, open the index.html file in the Frontend Local Repository
-
-5) Navigate throughout the site, and try out different features & interactions
+* https://docs.google.com/document/d/1oNPh7oo4C4tyDqzcL0avJqLV_kcUnpJ-4R_Gh7tmTlY/edit?usp=sharing
 
 ## Contributors
 

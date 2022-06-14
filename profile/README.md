@@ -59,7 +59,7 @@ Open the following link for the Startup Documentation and follow the steps there
 * Adrian M.
 * Tolu Agboke
 * Keith Smith
-* David
+* David Cantoran
 * Seada Ebrahim
 
 ## License

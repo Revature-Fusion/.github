@@ -39,7 +39,7 @@ Open the following link for the Startup Documentation and follow the steps there
 
 ## Contributors
 
-* Courtney-Sage
+* Courtney-Sage Martin
 * Blair Desjardins
 * Faysal Adigun
 * Vision Paudel
